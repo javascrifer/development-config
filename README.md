@@ -26,9 +26,9 @@ brew install Schniz/tap/fnm
 
 ---
 
-## Iterm2
+# Iterm2
 
-### Plugins
+## Plugins
 
 ```bash
 # ZSH
@@ -58,9 +58,9 @@ brew install lazygit
 
 ---
 
-## VSCode
+# VSCode
 
-### Plugins
+## Plugins
 
 ```bash
 code --install-extension adpyke.codesnap
@@ -85,11 +85,11 @@ code --install-extension sainnhe.gruvbox-material
 code --install-extension streetsidesoftware.code-spell-checker
 code --install-extension wayou.vscode-todo-highlight
 ```
-### Settings
+## Settings
 
 Replace `settings.json` with a file stored in vscode folder.
 
-### Font
+## Font
 
 https://github.com/tonsky/FiraCode/tree/master/distr/ttf
 
@@ -97,7 +97,7 @@ https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/
 
 ---
 
-## Neovim
+# Neovim
 
 ```bash
 brew install nvim
