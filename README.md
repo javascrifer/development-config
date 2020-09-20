@@ -92,6 +92,7 @@ Replace `settings.json` with a file stored in vscode folder.
 ### Font
 
 https://github.com/tonsky/FiraCode/tree/master/distr/ttf
+
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/
 
 ---
