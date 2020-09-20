@@ -1,0 +1,20 @@
+{
+  "editor.cursorStyle": "block",
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "editor.minimap.maxColumn": 140,
+  "editor.minimap.showSlider": "always",
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [100, 140],
+  "editor.foldingStrategy": "indentation",
+  "editor.formatOnSave": false,
+  "explorer.openEditors.visible": 0,
+  "workbench.colorTheme": "Gruvbox Material Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "gruvboxMaterial.lightContrast": "soft",
+  "gruvboxMaterial.darkContrast": "soft",
+  "files.insertFinalNewline": true
+  }
