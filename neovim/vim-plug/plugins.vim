@@ -8,6 +8,9 @@ endif
 
 call plug#begin('~/.config/nvim/autoload/plugged')
 
+    " Better Comments
+    Plug 'tpope/vim-commentary'
+    Plug 'suy/vim-context-commentstring'
     " Better Syntax Support
     Plug 'sheerun/vim-polyglot'
     " Auto pairs for '(' '[' '{'
